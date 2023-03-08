@@ -18,7 +18,7 @@ Catawiki is more of a want business than a need business, and when the user is t
 
 # I don't have time to go through all the cluster folders in github folder, what should I do ???
 
-If you are in rush, here's a picture of the folder on my mac for you to have a quick glance:
+If you are in rush. Don't worry. I've got you covered 😊. Here's a picture of the folder on my mac for you to have a quick glance:
 
 ## cluster_0:
 <img width="1187" alt="cluster_0" src="https://user-images.githubusercontent.com/76820944/223709075-4455b37e-56d8-4ddf-bd0b-d98fa66b35b7.png">
