@@ -11,6 +11,8 @@ You are looking at the clusters made by my algorithm when through some images sc
 
 This is because the algorithm was developed as part of my job at the company I work at Dubai. Due to privacy concerns of the company I couldn't share the code publically, but I still generated the results for catawiki's items by running it through the same clustering engine. 
 
+# Why is clustering important ?
 
+Catawiki is more of a want business than a need business, and when the user is there on the site, we have to appeal him into buying items that he loves. How would you know what the user loves ??? Well.... That's what the clustering and recommendation algorithm is for. To user personalized content based on his preferences and things that appeal him more.
 
-
+That's all :)
