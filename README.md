@@ -15,4 +15,4 @@ This is because the algorithm was developed as part of my job at the company I w
 
 Catawiki is more of a want business than a need business, and when the user is there on the site, we have to appeal him into buying items that he loves. How would you know what the user loves ??? Well.... That's what the clustering and recommendation algorithm is for. To user personalized content based on his preferences and things that appeal him more.
 
-That's all :)
+That's all ✅ 
